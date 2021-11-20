@@ -1,0 +1,8 @@
+POST http://localhost:3000/add-new-record
+Content-Type: application/json
+
+{
+    "name": "Sumit",
+    "reg_no": 2024,
+    "marks": 48
+}
